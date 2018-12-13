@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-epos-server",
+  "version": "0.0.0",
+  "description": "NodejsEposServer",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "events": "^3.0.0",
+    "request": "^2.88.0",
+    "ws": "^6.1.2"
+  }
+}
